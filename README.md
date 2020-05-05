@@ -1,4 +1,7 @@
 # interference
+Current Source will be ported on .NET Plaform in near future. 
+
+
 Cross-platform C++ library - universal neurobiology-based machine learning framework.
 
 Version 1.1.0
